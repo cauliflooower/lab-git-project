@@ -1,5 +1,4 @@
-from utils import add_numbers
+from utils import multiply_numbers
 
-result = add_numbers(5, 7)
+result = multiply_numbers(5, 7)
 print(f"Сумма чисел: {result}")
-
